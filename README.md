@@ -34,7 +34,7 @@ I'm leveraging years of leadership, logistics, and tactical evaluation experienc
 > Predicts mission readiness based on logistics inputs: supply delays, equipment status, weather, and personnel levels.  
 > Built with Python + Scikit-learn. Includes visuals and feature analysis to support smarter ops decisions.
 
-![Feature Importance]([https://github.com/coreyelmore-dev/mission-readiness-ml/blob/main/visuals/feature_importance.png](https://github.com/coreyelmore-dev/coreyelmore-dev/blob/main/feature_importance.png))
+![Feature Importance](https://raw.githubusercontent.com/coreyelmore-dev/coreyelmore-dev/main/feature_importance.png)
 
 ---
 
