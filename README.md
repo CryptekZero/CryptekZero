@@ -46,4 +46,4 @@ I'm leveraging years of leadership, logistics, and tactical evaluation experienc
 
 ### 📫 Let’s Connect
 📍 Based in Mississippi | 🎯 Focused on AI for Defense, Logistics, and Ops Strategy  
-🔗
+🔗 https://www.linkedin.com/in/coreyelmoreusn/
