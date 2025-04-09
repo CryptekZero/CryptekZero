@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/coreyelmore-dev/coreyelmore-dev/main/mission-banner.png" width="100%" />
-
 # 👋 Hi, I'm Corey Elmore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/coreyelmoreusn/)
