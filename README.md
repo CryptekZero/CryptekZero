@@ -1,49 +1,30 @@
-# 👋 Hi, I'm Corey Elmore
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/coreyelmoreusn/)
-[![WGU](https://img.shields.io/badge/WGU%20MS-AI/ML-6A5ACD?logo=gradle&logoColor=white)](https://www.wgu.edu/)
-[![Status](https://img.shields.io/badge/Clearance-Active%20Secret-success?logo=gov)]()
+<h1 align="center"><code>CRYPTEKZERO</code></h1>
+<p align="center"><i>Veteran-forged. AI-focused. Mission-driven.</i></p>
 
 ---
 
 ### 🧠 About Me
 
-🪖 Transitioning Navy Corpsman | 🎯 Mission-Driven Ops Leader | 🧠 AI/ML Developer in Training
+I’m a transitioning U.S. Navy veteran pursuing a Master’s in Computer Science with a focus on Artificial Intelligence and Machine Learning. My goal is to build intelligent, secure systems that enhance decision-making and operational readiness in defense and logistics environments.
 
-I'm leveraging years of leadership, logistics, and tactical evaluation experience to build intelligent, mission-ready tools for the defense industry.
-
----
-
-### 🔧 Tools I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+I’m especially interested in how **cyber-aware design**, **AI/ML**, and emerging technologies like **robotics and autonomous systems** can intersect to support mission-critical outcomes.
 
 ---
 
-### 🚀 Featured Project
+### 🛠 Current Projects
 
-#### 🧠 [Mission Readiness Prediction Tool](https://github.com/coreyelmore-dev/mission-readiness-ml)
+- **Mission Readiness Predictor**  
+  A machine learning model designed to forecast logistics and readiness outcomes
 
-> Predicts mission readiness based on logistics inputs: supply delays, equipment status, weather, and personnel levels.  
-> Built with Python + Scikit-learn. Includes visuals and feature analysis to support smarter ops decisions.
-
-![Feature Importance](https://raw.githubusercontent.com/coreyelmore-dev/coreyelmore-dev/main/feature_importance.png)
-
----
-
-### 📚 Currently Learning
-- Applied Machine Learning (WGU MSCS – AI/ML)
-- Data modeling for logistics & readiness
-- Streamlit (for dashboards)
-- AI use cases in defense, intelligence, and operations
+- **CryptekLabs**  
+  My personal development environment for exploring AI tools, cyber-informed utilities, and data-driven ops concepts
 
 ---
 
-### 📫 Let’s Connect
-📍 Based in Mississippi | 🎯 Focused on AI for Defense, Logistics, and Ops Strategy  
-🔗 https://www.linkedin.com/in/coreyelmoreusn/
+### ⚙️ Technical Loadout
+
+```bash
+Languages:     Python, SQL, JavaScript  
+Libraries:     scikit-learn, pandas, Streamlit, Flask, OpenAI API  
+Focus Areas:   AI/ML • Cyber-Aware Engineering • Logistics Systems  
+Interests:     Robotics • Autonomy • Tactical Tech
